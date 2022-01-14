@@ -16,6 +16,8 @@
 
 ### Budowa
 
+#### Zmiana mocowania zawiasu
+
 ### Pomiary
 
 ## Porównanie grzałek
